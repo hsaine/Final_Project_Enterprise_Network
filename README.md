@@ -28,6 +28,6 @@ with restricted access (user-password).
 authentication.
 
 <h2 align="center">Tools:</h2>
-In this project i used ubuntu, windows server as virtual machine to configure all tasks requested.
-For more details you will published later.
+In this project we are used ubuntu, windows server as virtual machine to configure all tasks requested.
+
 
