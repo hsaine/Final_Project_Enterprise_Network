@@ -30,4 +30,5 @@ authentication.
 <h2 align="center">Tools:</h2>
 In this project we are used ubuntu, windows server as virtual machine to configure all tasks requested.
 
-<h2>Steps to configure the entreprise network click on the link bellow to Download the report </h2>
+<h2>Report</h2>
+  Steps to configure the entreprise network click on the link bellow to Download the report. 
