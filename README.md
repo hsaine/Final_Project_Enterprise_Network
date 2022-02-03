@@ -1,4 +1,3 @@
-<h1 align="center"> Final Project :Enterprise Network </h1>
 
 
 <h2 align="center">The enterprise description:</h2>
@@ -30,5 +29,5 @@ authentication.
 <h2 align="center">Tools:</h2>
 In this project we are used ubuntu, windows server as virtual machine to configure all tasks requested.
 
-<h2>Report</h2>
+<h2 align="center">Report</h2>
   Steps to configure the entreprise network click on the link bellow to Download the report. 
