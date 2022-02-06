@@ -30,4 +30,7 @@ authentication.
 In this project we are used ubuntu, windows server as virtual machine to configure all tasks requested.
 
 <h2 align="center">Report</h2>
-  Steps to configure the entreprise network click on the link bellow to Download the report. 
+  Steps to configure the entreprise network contact me.
+  
+  <hsaineayoub77@gmail.com>
+  
